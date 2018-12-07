@@ -46,4 +46,5 @@ Procore Code Corps:
 * Ashton Doulabi
 * Eric Liu
 * Kevin Plaut
+* Eyvette Sou
 * Zaira Tomayeva
