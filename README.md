@@ -1,5 +1,6 @@
 # :camera: :dog2: dogstagram :dog2: :camera: 
 Beginner HTML/CSS Workshop
+Mentor Instruction guide: https://docs.google.com/document/d/1OiN0_tXA87PfSELjDfB3sDOFkqB9ZcbEY8sBwmRLjTU/edit#heading=h.a7iw9oka49g5
 
 # :star2: Getting Started
 #### :dog2: Option 1 _(EASY. No set up needed!)_
