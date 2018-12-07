@@ -1,0 +1,81 @@
+body {
+  display: flex;
+  justify-content: center;
+  font-family: Arial;
+  background-color: #ccc;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.screen {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  border: 1px #808080 solid;
+  background-color: white;
+}
+
+.stories {
+  display: flex;
+  flex-direction: row;
+  margin: 20px 0px;
+  max-width: 400px;
+  overflow-x:scroll;
+}
+
+.individual_story{
+  height: 60px;
+  width: 60px;
+  object-fit: contain;
+  border-radius: 100%;
+  border: 1px #000 solid;
+  margin: 0px 10px;
+}
+
+.feed {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.post {
+  width: 400px;
+  min-height: 540px;
+}
+
+.image {
+  height: 400px;
+  width: 400px;
+  object-fit: cover;
+}
+
+.header {
+  margin: 10px;
+  display: flex;
+}
+
+.poster_avatar {
+  height: 30px;
+  width: 30px;
+  object-fit: contain;
+  border-radius: 100%;
+  border: 1px #000 solid;
+}
+
+.username {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.description {
+  margin: 10px;
+}
+
+.heart, .comment, .send {
+  height: 25px;
+  width: 25px;
+}
