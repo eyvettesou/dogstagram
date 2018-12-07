@@ -23,21 +23,21 @@ Beginner HTML/CSS Workshop
 7. Open up `index.js` and start with step #1. Use the Word Bank below if you need help. Check your answers by navigating to the `index_solution.js` in this github repository.
 
 # :star2: Translations from English => Code
-Box: div
-Label: class=""
-Image element: img src="http://example.com/happy.jpg"/
-Line break: br/
-Bold: b
-Add a link: a href=""/
+* Box: `div`
+* Label: `class=""`
+* Image element: `img src="http://example.com/happy.jpg"/`
+* Line break: `br/`
+* Bold: `b`
+* Add a link: `a href=""`
 
 # :star2: Resources
-username: world_famous_doge
-link to doge instagram: https://www.instagram.com/world_famous_doge
-poster avatar: http://bit.ly/lesson1-photo-of-avatar
-post: http://bit.ly/lesson1-photo-of-doge
-like image: http://bit.ly/lesson1-photo-of-heart
-comment image: ttp://bit.ly/lesson1-photo-of-comment
-send image: http://bit.ly/lesson1-photo-of-send
+* username: world_famous_doge
+* link to doge instagram: https://www.instagram.com/world_famous_doge
+* poster avatar: http://bit.ly/lesson1-photo-of-avatar
+* post: http://bit.ly/lesson1-photo-of-doge
+* like image: http://bit.ly/lesson1-photo-of-heart
+* comment image: ttp://bit.ly/lesson1-photo-of-comment
+* send image: http://bit.ly/lesson1-photo-of-send
 
 # :star2: Collaborators
 Procore Code Corps:
