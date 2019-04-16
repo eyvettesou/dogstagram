@@ -1,4 +1,4 @@
-# :camera: :dog2: dogstagram :dog2: :camera: 
+# :camera: :dog2: dogstagram :dog2: :camera:
 Beginner HTML/CSS Workshop
 Mentor Instruction guide: https://docs.google.com/document/d/1OiN0_tXA87PfSELjDfB3sDOFkqB9ZcbEY8sBwmRLjTU/edit#heading=h.a7iw9oka49g5
 
@@ -11,17 +11,10 @@ Mentor Instruction guide: https://docs.google.com/document/d/1OiN0_tXA87PfSELjDf
 1. [Clone the repository](https://help.github.com/articles/cloning-a-repository/)
 2. Open up `index.js` and start with step #1. Use the Word Bank below if you need help. Check your answers by navigating to the `index_solution.js` in this github repository.
 
-#### :dog2: Option 2 _(HARD. If you don't have github setup)_
-1. Create a `dogstagram` folder on your Desktop
-2. Navigate into `dogstagram` folder
-3. Create three files:
-    * `index.html`
-    * `index.js`
-    * `index.css`
-4. In github, navigate to the `index.html` file and copy and paste the code into your newly created `index.html` file.
-5. In github, navigate to the `index.css` file and copy and paste the code into your newly created `index.css` file.
-6. In github, navigate to the `index.js` file and copy and paste the code into your newly created `index.js` file
-7. Open up `index.js` and start with step #1. Use the Word Bank below if you need help. Check your answers by navigating to the `index_solution.js` in this github repository.
+#### :dog2: Option 3 _(NORMAL. If you don't have github setup)_
+1. Download the repository (using the "Clone or download" button and then "Download ZIP")
+2. Click the folder to unzip it
+3. Open up `index.js` and start with step #1. Use the Word Bank below if you need help. Check your answers by navigating to the `index_solution.js` in this github repository.
 
 # :star2: Translations from English => Code
 * Box: `div`
